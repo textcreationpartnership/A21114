@@ -1,0 +1,588 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Periurium officiosum: ad vere nobilem, et generosum, optiméq[ue] de me meritum virum, Robertum Aytonum equitem Annæ fœliciss. mem. Magnæ Britanniæ, Fran. &amp; Hiber. regnæ secretarium. Homo homini Deus.</title>
+            <author>Echlin, David.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1626</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21114</idno>
+            <idno type="STC">STC 7479</idno>
+            <idno type="STC">ESTC S113978</idno>
+            <idno type="EEBO-CITATION">99849206</idno>
+            <idno type="PROQUEST">99849206</idno>
+            <idno type="VID">14344</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21114)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 14344)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 782:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Periurium officiosum: ad vere nobilem, et generosum, optiméq[ue] de me meritum virum, Robertum Aytonum equitem Annæ fœliciss. mem. Magnæ Britanniæ, Fran. &amp; Hiber. regnæ secretarium. Homo homini Deus.</title>
+                  <author>Echlin, David.</author>
+               </titleStmt>
+               <extent>[4], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Apud Georgium Miller,</publisher>
+                  <pubPlace>Londini :</pubPlace>
+                  <date>M. DC. XXVI [1626]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ayton, Robert, --  Sir, 1570-1638.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:14344:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 57 -->
+            <pb facs="tcp:14344:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 57 -->
+            <p>PERIVRIVM OFFICIOSVM: <hi>AD</hi> Vere Nobilem, et Generoſum, optime<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> de me <hi>meritum virum,</hi> ROBERTVM AYTONVM Equitem, Annae foeliciſſ. mem. <hi>Magnae Britanniae, Fran. &amp; Hiber. Reginae</hi> Secretarium.</p>
+            <q>Homo homini Deus.</q>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDINI,</hi> Apud Georgium Miller. M.DC.XXVI.</p>
+            <pb facs="tcp:14344:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 58 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:14344:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 58 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:14344:3"/>
+            <!-- PDF PAGE 59 -->
+            <pb facs="tcp:14344:3"/>
+            <!-- PDF PAGE 59 -->
+            <opener>
+               <salute>VERE NOBILI ET generoſo optimeque de me merito viro ROBERTO AYTONO <hi>equiti Annae foeliciſſ. mem. Magnae Britanniae Franc. &amp; Hib. Reginae Secretario.</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Vltos ante annos iuraueram, ami<g ref="char:EOLhyphen"/>ciſſime mihíq ſemper numinis inſtar colende AYTONE, nu<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>quam me iterum inſaniturum. Hem periurum tua culpa, qui nihiltale de te meritum vltrò prouocaſti officijs, beneficijs, eheu tam malè turò collocatis. Quippe quo<g ref="char:EOLhyphen"/>ties ego in rerum anguſtias redactus, vt iam propè conclamatum videretur, toties tu mihi repentètan quam Deus e machina; non tan<g ref="char:EOLhyphen"/>tùm conſilio &amp; opera vt hodie vulgus amico<g ref="char:EOLhyphen"/>rum, de quo tamen plurima mehercle haben<g ref="char:EOLhyphen"/>da gratia, ſed &amp; reapſe amicus. Acſi peieran<g ref="char:EOLhyphen"/>dum, non regni, ſed quae mea eſt ambitio, ami<g ref="char:EOLhyphen"/>citiae cauſa peierandum. Nec me terret criti<g ref="char:EOLhyphen"/>cus quiſquis ſit cum ſtylo ſuo, &amp; ſi ita deo pla<g ref="char:EOLhyphen"/>cet, ſpongia; dummodò omnem a me ingrati
+<pb facs="tcp:14344:4"/>
+               <!-- PDF PAGE 60 -->animi ſuſpicionem longè amoliar. Quinim<g ref="char:EOLhyphen"/>mo malim cum Cherylo verſus leues atq lu<g ref="char:EOLhyphen"/>dicros bona fide, licet inuito Phoebo, ad ca<g ref="char:EOLhyphen"/>chinnum effutire, quàm ſilere in tanta erga me liberalitate tam<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> non vulgari; vt nunc fri<g ref="char:EOLhyphen"/>get charitas, regnant ſordes. Siue hoc ſuper<g ref="char:EOLhyphen"/>cilioſis deliriu<g ref="char:cmbAbbrStroke">̄</g> videri poteſt aetatis huiuſce, iam dehinc ſenſim fortè deſipiſcentis: ſiue potiùs empyreuma eſt quoddam, &amp; reliquiae priſtini illius caloris ſopiti, nondum prorſus extincti. Quicquid eſt, ſemel iterum inſanire libet, &amp; certum eſt. Tibi faxit Deus vt diuturna ſit me<g ref="char:cmbAbbrStroke">̄</g>s ſana in corpore ſano. Ego vero nihil niſi mo<g ref="char:EOLhyphen"/>rior, &amp; moriar cum cygnaeo hoc cantu;</p>
+            <closer>
+               <signed>Totus dum languentem hanc animam traham optimo iure tuus
+DAVID ECHLINVS Medicus Reginae.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="7" facs="tcp:14344:4"/>
+            <!-- PDF PAGE 60 -->
+            <head>PERIVRIVM OFFICIOSVM.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">R</seg>Arum AYTONE decus Britanniarum,</l>
+               <l>Muſarum ſoboles Apolliniſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>,</l>
+               <l>Incertis mihi certe amice rebus,</l>
+               <l>Quo te munere proſequar? fidém<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+               </l>
+               <l>Penſabo, immeritam &amp; benignitatem?</l>
+               <l>At nondum mihi vertit aut rotam ſors,</l>
+               <l>Aut frontem polus, vt pari referre</l>
+               <l>Par poſsim modò lege talionis.</l>
+               <l>Sed nec ſpes quoque tempus in futurum</l>
+               <l>Tantam reddere poſſe largitatem.</l>
+               <l>Quidnam ergo? faciam licet quod vnum,</l>
+               <l>Quod ſors inuidaneſcit abſtuliſſe:</l>
+               <l>Grato debita confitebor ore,</l>
+               <l>Agnoſcens animo ipſa gratiore.</l>
+               <l>Hoc Muſa ingenuis canet Phaleucis.</l>
+               <l>Hoc ſolum mea curta fert ſupellex.</l>
+               <l>Hoc ſolum ſat habebit altitudo</l>
+               <l>Caelſi iſthaec animi, arduúm<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> pectus.</l>
+               <l>Dat<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ingens animus facit<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> gratis,</l>
+               <l>
+                  <pb n="8" facs="tcp:14344:5"/>
+                  <!-- PDF PAGE 61 -->
+Veraces cecinere quem Sibyllae</l>
+               <l>Iuncturum duo regna priſca in vnum;</l>
+               <l>Indignante dei domum bifrontis</l>
+               <l>Clauſam, vincula carcerem<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>, bello.</l>
+               <l>Aetatis meliore parte tandem</l>
+               <l>Tranſacta reducem excipit paternum,</l>
+               <l>Saltem finitimum ſolum paterno;</l>
+               <l>Foelix Anglia Scotiae vnione:</l>
+               <l>At foelicior ipſa vtroque Rege,</l>
+               <l>Illo Pacifico, hoc parato vtrinque;</l>
+               <l>Seu pacem colere intra &amp; extra honeſtam,</l>
+               <l>Seu iuſto premere enſe perduelles.</l>
+               <l>Hùc te quae comites erant ſequutae</l>
+               <l>Vaſtum per pelaguſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> pérque terras,</l>
+               <l>Fidae Pierides domùm reducunt;</l>
+               <l>Aſpirat<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> fauens canenti Apollo:</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="C"/> Seu votiua pio pius ſodali</l>
+               <l>Soluis iuſta, fide hinc &amp; inde pacta:</l>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="D"/> Seu Leſſus medicum gemit poetam,</l>
+               <l>Quem vis peſtiferae enecauit aurae;</l>
+               <l>Sacram carmine conſecrato ad aram.</l>
+               <l>Iam cu<g ref="char:cmbAbbrStroke">̄</g>ltus tibi Numinis ſupremi,</l>
+               <l>In diuos pietaſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>, prima ſemper</l>
+               <l>Ac princeps ſapientia aeſtimata eſt.</l>
+               <l>Tum mores niuis aemuli, nec vlla</l>
+               <l>Liueſcens macula abſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> labe pectus,</l>
+               <l>
+                  <pb n="9" facs="tcp:14344:5"/>
+                  <!-- PDF PAGE 61 -->
+Deuinxere tibi omnium fauorem.</l>
+               <l>Sic vita hactenus inſtituta, vt ipſi</l>
+               <l>Momo quod reprehendat haud notetur,</l>
+               <l>Langueſcat<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> odium filens, probet<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+               </l>
+               <l>Laudes inuidia ore vel coacto.</l>
+               <l>Nec tu, quod caput omnium, otioſa</l>
+               <l>Segnis natus eras latere in vmbra,</l>
+               <l>Seorſum a ſtrepitu negotiorum;</l>
+               <l>Afflatu ebrius aut liquore inani,</l>
+               <l>Ignaui &amp; ſteriles vti poetae.</l>
+               <l>Quin tu cum locus eſt, vocat<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tempus,</l>
+               <l>Omni poſthabito ſilentio<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>,</l>
+               <l>Seceſſu<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> locorum amoeniorum,</l>
+               <l>In lucem alite fauſtiore prodis,</l>
+               <l>Rerum vtcunque oneroſa publicarum</l>
+               <l>Gubernacula ſtrenuè capeſſens;</l>
+               <l>Seu pax vrgeat alma, ſeu duellum:</l>
+               <l>Inuitis nihil interim Camaenis:</l>
+               <l>Immo id cum venia bona Sororum:</l>
+               <l>Ne quis propterea putet Poetam</l>
+               <l>Excludendum Helicone ſaniorem.</l>
+               <l>Nam tu poſt grauiora ſerium<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>,</l>
+               <l>Ad dulces remeas ſubinde luſus,</l>
+               <l>Dio mentis alacrior furore:</l>
+               <l>Perpaucis data quae fuit facultas.</l>
+               <l>Paucis ingenium hoc, luto<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> paucis</l>
+               <l>
+                  <pb facs="tcp:14344:6"/>
+                  <!-- PDF PAGE 62 -->
+Hoc praecordia ficta molliuſclo.</l>
+               <l>Sic Mauors galea<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> &amp; enſe nudus,</l>
+               <l>Armorum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> virum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> poſtumultus,</l>
+               <l>Charae coniug is in toro recumbens,</l>
+               <l>Mentem membra<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> recreare gaudet.</l>
+               <l>Quàm ſortis dominator vtriuſque,</l>
+               <l>Iuxtà deſpicias &amp; hanc &amp; illam;</l>
+               <l>Non abiectus humi, nec intumeſcens:</l>
+               <l>Sed ſemper ſimilis tibi tui<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>,</l>
+               <l>Vultu immotus ad omnia vniformi:</l>
+               <l>Quàm cordis generoſa magnitudo, &amp;</l>
+               <l>Inuictus vigor hoſte fulminante:</l>
+               <l>Quàm prudentia ſingularis: &amp; vis</l>
+               <l>Quaenam conſilij ſagacis ire</l>
+               <l>Maturè ancipiti obuiam periclo:</l>
+               <l>Teſtis Rex IACOBVS omne in aeuum,</l>
+               <l>Dignum te ordine iudicans equeſtri.</l>
+               <l>Teſtis nec locuples minùs ſit ANNA,</l>
+               <l>Quae te pro meritis fide<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſumma,</l>
+               <l>Secretis proprijs praeeſſe iuſsit;</l>
+               <l>Dignum quem MARIA &amp; ſuis eundem</l>
+               <l>Schedis praeficiat; quod &amp; futurum</l>
+               <l>Mens praeſaga mihi breuì auguratur.</l>
+               <l>Dudum ad munus hoc ipſe plurimorum</l>
+               <l>Votis non tacitis palàm &amp; loquelis</l>
+               <l>Audis indigitatus optimorum:</l>
+               <l>
+                  <pb n="7" facs="tcp:14344:6"/>
+                  <!-- PDF PAGE 62 -->
+Ceu quondam ad trabeam Numa atque faſces</l>
+               <l>Venit rure vocatus e Sabino.</l>
+               <l>Ergo cedite laude Apollinaris</l>
+               <l>Palmae, cedite gloriae trophoeis,</l>
+               <l>Vos vateſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>, equiteſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>, nobileſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>,</l>
+               <l>Quot quot nunc ſupereſtis ô Britanni;</l>
+               <l>Et quot poſterit as feret nepotes,</l>
+               <l>Auguſto<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> equiti, ſacro<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> vati.</l>
+               <l>Primus tandem erit optimuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>, quiſquis</l>
+               <l>Anoſtro hoc fuerit ſtatim ſecundus;</l>
+               <l>Tanti Prototypi aemulator acer.</l>
+               <l>Laudum encomia mî quidem tuarum</l>
+               <l>Triuiſſe Hendecaſyllabis piaclum.</l>
+               <l>Nempe hìc grandiloquo eſt opus cothurno.</l>
+               <l>Hoc praeſtent quibus annuens Apollo:</l>
+               <l>Aut certè potiùs velipſe Apollo.</l>
+               <l>Mi AYTONE interea vale, tuique</l>
+               <l>Flos ſaecli vnice, flos tuae<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> gentis.</l>
+               <l>Fortuna fruere indies vigente.</l>
+               <l>Virtuti aemula ſors ſit, &amp; viciſsim.</l>
+               <l>Echlinum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tuum vſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> amare perge;</l>
+               <l>Quem curae ſenúmque &amp; aegritudo</l>
+               <l>Et fortuna nouerca perdidiſſet,</l>
+               <l>Praeſentem niſi Diua opem tuliſſet;</l>
+               <l>Nutantem niſi Diua ſubleuaſſet;</l>
+               <l>Inſtantem clypeotegens ruinam:</l>
+               <l>
+                  <pb n="8" facs="tcp:14344:7"/>
+                  <!-- PDF PAGE 63 -->
+HERRICO patre nata Magna MAGNO,</l>
+               <l>Et IVSTO ſoror Aequa LODOICO,</l>
+               <l>Vxor chara Britannici Monarchae,</l>
+               <l>CARLI Magnanimi, Optimi<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Regum;</l>
+               <l>Mater, o vtinam, beata prole</l>
+               <l>Pulchella exhilarante prole matrem;</l>
+               <l>Et mater MARIA at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> pulchra proles,</l>
+               <l>Olim AYTONE tuae ſonus Thaliae.</l>
+            </lg>
+         </div>
+         <div type="textual_notes">
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="A"/>
+               <hi>Diophanti &amp; Charidorae amores Scotico verſu, elega<g ref="char:cmbAbbrStroke">̄</g>ter &amp; lepidè luſit adoleſcentulus.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="B"/>
+               <hi>De inaugurando IACOBO Magnae Bri<g ref="char:EOLhyphen"/>tanniae Rege primo, Carmen Panegyricum tanto Heroe dignum.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="C"/>
+               <hi>Conuentum inter</hi> Robertu<g ref="char:cmbAbbrStroke">̄</g> Aytonu<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>Equite<g ref="char:cmbAbbrStroke">̄</g>, &amp;</hi> Thomam Rhoedum <hi>Regi a Latinis literis; vt, qui e duobus alteri ſuperuiueret, defuncto carmen funebre inſcriberet.</hi> Aytonus, <hi>quod quaeſo diuturnum ſit, ſuperſtes, egregiè pa<g ref="char:EOLhyphen"/>cto abunde<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſatisfecit.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="D"/>
+               <hi>LESSVS, vt ſuperiora caetera<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> eiuſde<g ref="char:cmbAbbrStroke">̄</g> venae planè aureus, (nam paucula haec in praeſens exempli cauſa duntaxat) in funere</hi> Raphaelis Thorij <hi>Medici &amp; Poetae preſtantiſſimi, qui pe<g ref="char:EOLhyphen"/>ſte extinctus cum omniu<g ref="char:cmbAbbrStroke">̄</g> bonorum, doctoru<g ref="char:cmbAbbrStroke">̄</g>
+                  <expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> triſti deſiderio, obijt Londini, 1623.</hi>
+            </p>
+         </div>
+         <div type="poem">
+            <lg>
+               <pb n="9" facs="tcp:14344:7"/>
+               <!-- PDF PAGE 63 -->
+               <l>THORIVS Poeta quo nec alter dignior,</l>
+               <l>Dignum poetam nactus est.</l>
+               <l>AYTONVS arte nec ſecundus alteri,</l>
+               <l>Nactus poetam eſt imparem.</l>
+               <l>Nec, Lector, hoc te offendat oro, candide:</l>
+               <l>Parem poetam non habet.</l>
+               <l>Tenui meae ſit ſat ſuper<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> muſulae,</l>
+               <l>Dignum ſi amicum nactus eſt.</l>
+            </lg>
+            <lg>
+               <l>Vnum te ſupplex orat, mi AYTONE, libellus,</l>
+               <l>Per ſacra, per ſanctam mutuò amicitiam:</l>
+               <l>Vt, quando ille tuo ſub nomine vadit in aulam</l>
+               <l>Simplex, &amp; domini expreſſa figura ſui,</l>
+               <l>Nuſquam ſolus eat; ſed te praeeunte, tuo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+               </l>
+               <l>Tectus is &amp; paſsim Numine tutus eat.</l>
+               <l>Te<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ducem ſi fortè ſequatur in Atria Regis,</l>
+               <l>Ne timor aut pudor hic peccet vterque caue.</l>
+            </lg>
+            <closer>
+               <signed>D. E. M. R.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>THORIVS, poeta quo nec alter dignior</l>
+               <l>Dignum poetam nactus eſt.</l>
+               <l>AYTONE, vates quo nec alter doctior,</l>
+               <l>Dignum &amp; poetam nactus es.</l>
+               <l>Noſtro huic, poeta nemo quo modeſtior,</l>
+               <l>Dignum poetam quis dabit?</l>
+               <l>Sic luce digna cenſuit Phaleucia</l>
+               <l>Medici Poetae carmina,</l>
+            </lg>
+            <closer>
+               <signed>I. H.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
